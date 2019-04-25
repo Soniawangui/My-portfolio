@@ -1,6 +1,6 @@
 # My-portfolio# {Portfolio}
 #### {It's a description that explains who I am what I enjoy to do and why I love programming.}, {Date of current version}
-#### By **{List of contributors}**
+#### By **{Sonia Habamba}**
 ## Description
 {This portfolio explains who I am what I love to do when i'm free and why I enjoy programming.Basically it's all about my background. }
 ## Setup/Installation Requirements
@@ -11,7 +11,7 @@
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved tharobably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{So far this code doesn't ave any bugs but just in case you get some feel free to contact me.}
 ## Support and contact details
 (Contact me if you have any questions at koisonia99@gmail.com}
 ### License
