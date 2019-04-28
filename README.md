@@ -11,7 +11,7 @@
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{So far this code doesn't ave any bugs but just in case you get some feel free to contact me.}
+{So far this code doesn't have any bugs but just in case you get some feel free to contact me.}
 ## Support and contact details
 (Contact me if you have any questions at koisonia99@gmail.com}
 ### License
