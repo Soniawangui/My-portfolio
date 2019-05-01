@@ -1,6 +1,7 @@
 body{
   background-color: rgb(218, 209, 209);
   font-size: 20px;
+  background-image: url("../Images/sonia.jpg");
 }
 header{
   height:100px;
